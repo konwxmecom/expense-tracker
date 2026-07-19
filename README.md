@@ -1,2 +1,2 @@
-# expense-tracker
+# project-detection-url
 
